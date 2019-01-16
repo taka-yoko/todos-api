@@ -1,11 +1,14 @@
-# README
+# Todo app API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the API that provide function for Todo app.
+Based on the below site.
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
 
 Things you may want to cover:
 
 * Ruby version
+
+2.3.0
 
 * System dependencies
 
@@ -21,4 +24,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
